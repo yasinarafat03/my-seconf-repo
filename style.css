@@ -2,3 +2,10 @@ p{
     background-color: aquamarine;
     color: black;
 }
+small{
+
+    background-color: bisque;
+    font-size: larger;
+    width: 50px;
+    font-weight: 50px;
+}
